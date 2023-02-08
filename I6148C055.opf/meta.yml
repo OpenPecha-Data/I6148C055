@@ -1,0 +1,16 @@
+id: I6148C055
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:03:58.372521
+last_modified: 2023-02-08 15:03:58.372681
+source_metadata:
+  title: Drāmiḍāvidyārājā
+  language: bo
+bases:
+  28D5:
+    base_file: 28D5.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
